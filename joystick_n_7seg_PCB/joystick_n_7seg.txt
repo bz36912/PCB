@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Fensong Gao\Desktop\my stuff (don't touch)\PCB\joystick_n_7seg_PCB\joystick_n_7seg.PcbDoc
+Date         : 13/07/2023
+Time         : 8:22:48 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 66.6mmx53.125mm
+    Components on board, 22
+count : 2
